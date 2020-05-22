@@ -5,7 +5,7 @@
 2. If you already have the Microsoft Authenticator app, make sure that any previous setups for TBT Engineering are deleted. 
 
 3. From an internet-connected computer, visit [My Security Info](https://aka.ms/mysecurityinfo) and sign in with the username and password provided by IT.
-![Login with your company credentials](https://github.com/stamler/tbte-docs/blob/master/MFA-images/browser-1.png "Login with your company credentials")
+![Login with your company credentials](https://github.com/stamler/tbte-docs/blob/master/MFA-images/browser-1.png "Login with your company credentials"). Do not do this from the mobile device you're setting up with Microsoft Authenticator.
 
 4. After you've signed in, you will receive a message indicating that more information is required. This is the beginning of the MFA setup workflow.
 <image browser-2>
