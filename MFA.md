@@ -35,7 +35,7 @@ a new Work or School account.
   <img width="400px" src="https://github.com/stamler/tbte-docs/blob/master/MFA-images/iOS-1.png">
 </p>
 
-8. Touch "Work or school account". If prompted to allow camera access, click allow.
+8. Touch "Work or school account". If prompted, click "OK" to Allow camera access.
 
 <p align="center">
   <img width="400px" src="https://github.com/stamler/tbte-docs/blob/master/MFA-images/iOS-2.png">
