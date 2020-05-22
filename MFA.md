@@ -53,3 +53,5 @@ a new Work or School account.
 <p align="center">
   <img width="400px" src="https://github.com/stamler/tbte-docs/blob/master/MFA-images/iOS-4.png">
 </p>
+
+11. Once you've successfully scanned the QR code the setup is complete. The MFA setup workflow will then ask you to do a test. Follow the instructions on your computer and approve the notification on your phone to finish up.
