@@ -41,5 +41,8 @@ a new Work or School account.
   <img width="400px" src="https://github.com/stamler/tbte-docs/blob/master/MFA-images/iOS-2.png">
 </p>
 
-9. A QR code is shown on the computer browser. This is how you pair the App on your mobile device.
-<image browser-4>
+9. Back on the computer, click "Next". A QR code is displayed in the browser. This will be used to pair the App on your mobile device to your account.
+
+<p align="center">
+  <img width="600px" src="https://github.com/stamler/tbte-docs/blob/master/MFA-images/browser-5.png">
+</p>
