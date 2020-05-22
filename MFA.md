@@ -35,10 +35,11 @@ a new Work or School account.
   <img width="400px" src="https://github.com/stamler/tbte-docs/blob/master/MFA-images/iOS-1.png">
 </p>
 
-8. Touch "Work or school account".
+8. Touch "Work or school account". If prompted to allow camera access, click allow.
 
 <p align="center">
   <img width="400px" src="https://github.com/stamler/tbte-docs/blob/master/MFA-images/iOS-2.png">
+  <img width="400px" src="https://github.com/stamler/tbte-docs/blob/master/MFA-images/iOS-3.png">
 </p>
 
 9. Back on the computer, click "Next". A QR code is displayed in the browser. This will be used to pair the App on your mobile device to your account.
@@ -46,3 +47,5 @@ a new Work or School account.
 <p align="center">
   <img width="600px" src="https://github.com/stamler/tbte-docs/blob/master/MFA-images/browser-5.png">
 </p>
+
+10. From your mobile device, scan the QR code on your computer screen. If prompted
