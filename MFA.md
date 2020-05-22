@@ -29,11 +29,17 @@ a new Work or School account.
   <img src="https://github.com/stamler/tbte-docs/blob/master/MFA-images/browser-4.png">
 </p>
 
-7. In the App on your mobile device, press the "+" button on the top right of the screen.
+7. In the App on your mobile device, touch the "+" button on the top right of the screen.
 
 <p align="center">
   <img src="https://github.com/stamler/tbte-docs/blob/master/MFA-images/iOS-1.png">
 </p>
 
-8. A QR code is shown on the computer browser. This is how you pair the App on your mobile device.
+8. Touch "Work or School account".
+
+<p align="center">
+  <img src="https://github.com/stamler/tbte-docs/blob/master/MFA-images/iOS-2.png">
+</p>
+
+9. A QR code is shown on the computer browser. This is how you pair the App on your mobile device.
 <image browser-4>
