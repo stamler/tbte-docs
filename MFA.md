@@ -8,7 +8,7 @@
 ![Login with your company credentials](https://github.com/stamler/tbte-docs/blob/master/MFA-images/browser-1.png "Login with your company credentials"). Do not do this from the mobile device you're setting up with Microsoft Authenticator.
 
 4. After you've signed in, you will receive a message indicating that more information is required. This is the beginning of the MFA setup workflow.
-<image browser-2>
+![Beginning of MFA setup workflow](https://github.com/stamler/tbte-docs/blob/master/MFA-images/browser-2.png "Beginning of MFA setup workflow")
 
 5. You will be prompted to setup the Microsoft Authenticator App. Since you've already downloaded the app, you can just click "Next"
 <image browser-3>
