@@ -1,4 +1,14 @@
-# Setting up MFA
+# Multi-factor Authentication
+
+## About MFA
+
+TBT Engineering uses multi-factor authentication (MFA) to secure our accounts. This means when you login you use a password plus a second factor. The most secure second factor is your mobile device configured through an app. This is the method we use at our company.
+
+In order to login to your account, a person must have both your password and your mobile device under this scheme. Once your mobile device has been configured as a second factor, you will receive a notification that you are required to approve upon signing in. If you get a notification but have not signed in, deny the request and reset your password because it means someone has discovered your password.
+
+If your mobile device does not have an Internet connection, you can still sign in using MFA. The Microsoft Authenticator generates a one-time code every 30 seconds regardless of Internet connection status. When you receive the MFA challenge upon sign in, you can click "Sign in another way" and you will be offered the opportunity to select the "Use a verification code from my mobile app". You can use the one-time code from the Microsoft Authenticator app to login.
+
+## Setting up MFA
 
 1. If you haven't already installed the Microsoft Authenticator app on your mobile device, Go [here](https://www.microsoft.com/en-ca/account/authenticator) and install it.
 
