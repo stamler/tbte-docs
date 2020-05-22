@@ -48,4 +48,8 @@ a new Work or School account.
   <img width="600px" src="https://github.com/stamler/tbte-docs/blob/master/MFA-images/browser-5.png">
 </p>
 
-10. From your mobile device, scan the QR code on your computer screen. If prompted
+10. From your mobile device, scan the QR code on your computer screen.
+
+<p align="center">
+  <img width="400px" src="https://github.com/stamler/tbte-docs/blob/master/MFA-images/iOS-4.png">
+</p>
