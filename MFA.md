@@ -35,10 +35,10 @@ a new Work or School account.
   <img src="https://github.com/stamler/tbte-docs/blob/master/MFA-images/iOS-1.png">
 </p>
 
-8. Touch "Work or School account".
+8. Touch "Work or school account".
 
 <p align="center">
-  <img src="https://github.com/stamler/tbte-docs/blob/master/MFA-images/iOS-2.png">
+  <img width="400px" src="https://github.com/stamler/tbte-docs/blob/master/MFA-images/iOS-2.png">
 </p>
 
 9. A QR code is shown on the computer browser. This is how you pair the App on your mobile device.
