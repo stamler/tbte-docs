@@ -8,6 +8,8 @@ After setting up [MFA](https://github.com/tbt-eng/docs/blob/master/MFA.md) on yo
 
 Under the passwordless scheme, In order to login to your account, a person must have your mobile device in their possession and also either know your mobile device PIN or be able to access it via biometric authentication (for example TouchID or FaceID). Using passwordless authentication is very similar to using MFA except for a key difference: after you enter your username you are not asked for a password! Instead, you are presented with a challenge in the form of a two-digit number. Your mobile device will then present you three choices of two-digit numbers. To login, you must choose the correct one. In this manner you prove that the owner of the mobile device is approving the login, completing the process.
 
+Once enabled, you'll only be required to use your password when logging onto your computer directly.
+
 ## Setting up Passwordless
 
 1. You must have already completed the setup of MFA using the Microsoft Authenticator app. If you haven't, follow the instructions [here](https://github.com/tbt-eng/docs/blob/master/MFA.md)
