@@ -2,7 +2,7 @@
 
 ## About Passwordless Login
 
-Passwords are a security issue. If somebody gets your password, they can access your accounts. MFA helps us quite a bit by ensuring that a person can't login without having something else in addition to your password. But good passwords are still hard to remember and, critically, bad actors trick us into giving away our passwords with incredible frequency. This is called phishing. Wouldn't it be great if you didn't have to use your password at all? That way, when someone sends you a suspicious email and you are asked for your password, you'll know every time that something is wrong. The great news is, we can now do this!
+Passwords are a security issue. If somebody gets your password, they can access your accounts. MFA helps us quite a bit by ensuring that a person can't login without having something else in addition to your password. But good passwords are still hard to remember and, critically, bad actors trick us into giving away our passwords with incredible frequency. This is called phishing. Wouldn't it be great if you didn't have to use your password at all? That way, when someone sends you a suspicious email and you are asked for your password, you'll know every time that something is wrong. Great news! We can now do this now!
 
 After setting up [MFA](https://github.com/tbt-eng/docs/blob/master/MFA.md) on your TBT Engineering acccount using the Microsoft Authenticator app, you should enable passwordless login. Passwordless login replaces the need to use a password by leveraging your existing mobile device and making both the possession of your device and the knowledge of its PIN or biometric security an integral part of the login process.
 
