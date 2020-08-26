@@ -1,10 +1,12 @@
-# Passwordless Multi-Factor Authentication
+# Passwordless Authentication
 
 ## About Passwordless Login
 
-After setting up [MFA](https://github.com/tbt-eng/docs/blob/master/MFA.md) on your TBT Engineering acccount using the Microsoft Authenticator app, it is recommended to enable passwordless login. Passwordless login replaces the need to use a password by leveraging your existing mobile device and making both the possession of your device and the knowledge of its PIN or biometric security an integral part of the login process.
+Passwords are a security issue. If somebody gets your password, they can access your accounts. MFA helps us quite a bit by ensuring that a person can't login without having something else in addition to your password. But passwords are still hard to remember if they're good and, critically, bad actors can and do trick us into giving away our passwords with incredible frequency. This is called phishing. Wouldn't it be great if you didn't have to use your password at all? That way, when someone sends you a suspicious email and you are asked for your password, you'll know every time that something is wrong. The great news is, we can now do this!
 
-Under the passwordless scheme, In order to login to your account, a person must have your mobile device in their possession and also either know your mobile device PIN or be able to access it via biometric authentication. Using passwordless authentication is very similar to using MFA except for a key difference: after you enter your username you are not asked for a password! Instead, you are presented with a challenge in the form of a two-digit number. Your mobile device will then present you three choices of two-digit numbers. To login, you must choose the correct one. In this manner you prove that the owner of the mobile device is approving the login, completing the process.
+After setting up [MFA](https://github.com/tbt-eng/docs/blob/master/MFA.md) on your TBT Engineering acccount using the Microsoft Authenticator app, you should enable passwordless login. Passwordless login replaces the need to use a password by leveraging your existing mobile device and making both the possession of your device and the knowledge of its PIN or biometric security an integral part of the login process.
+
+Under the passwordless scheme, In order to login to your account, a person must have your mobile device in their possession and also either know your mobile device PIN or be able to access it via biometric authentication (for example TouchID or FaceID). Using passwordless authentication is very similar to using MFA except for a key difference: after you enter your username you are not asked for a password! Instead, you are presented with a challenge in the form of a two-digit number. Your mobile device will then present you three choices of two-digit numbers. To login, you must choose the correct one. In this manner you prove that the owner of the mobile device is approving the login, completing the process.
 
 ## Setting up Passwordless
 
