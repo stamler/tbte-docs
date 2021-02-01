@@ -24,8 +24,21 @@ These are the most basic unit of time. They contain a single description of an e
 
 Timesheets cannot be created manually. They are always created by bundling together time entries. At the end of a week when you've created all of your time entries, you bundle them together into a TimeSheet. There can only be one timesheet for a given week so if you need to edit a timesheet, you must unbundle it (by clicking the Edit icon), edit, delete or create the entries, then rebundle it. This process exists because validations are done on a timesheet *as a whole* during the bundling process. For example, if you've tried to bank overtime but that brings your total below 44 hours, the bundling step will fail. Lots of these checks exist, but in reality they're just automating the rules that were already in place when we used to use Excel spreadsheets.
 
+<p align="center">
+  <img width="600px" src="https://github.com/stamler/tbte-docs/blob/master/tybalt-images/bundle.png">
+  <img width="600px" src="https://github.com/stamler/tbte-docs/blob/master/tybalt-images/bundling.png">
+</p>
+
 ### 3. Submitting a Time Sheet
 
 Once you have created a time sheet by bundling your time entries, it needs to be submitted to your manager for approval. You choose your manager in settings in the same way you choose your default division. If you change your manager you'll be logged out so the settings take effect. You only need to set your manager once unless your reporting manager changes.
 
+<p align="center">
+  <img width="600px" src="https://github.com/stamler/tbte-docs/blob/master/tybalt-images/submitEdit.png">
+</p>
+
 Submitting the timesheet is done with one click on the paper airplane icon. If you submit your timesheet and then realize you've made a mistake, as long as your manager hasn't already approved it, you can recall it. You do this by clicking the rewind icon. If your manager has already approved it and administration hasn't already locked the timesheet for running payroll and invoicing, you can ask your manager to reject the timesheet. Once this is done you must recall the rejected timesheet and unbundle it then bundle it again before it can be resubmitted to your manager. If your timesheet was approved and locked and you later discover there were errors or omissions, you must submit a manual amendment request on a spreadsheet. Amendments are entered by administrators and because of their retroactive nature are represented in reports for the week they were entered rather than for the week the time was accrued in.
+
+<p align="center">
+  <img width="600px" src="https://github.com/stamler/tbte-docs/blob/master/tybalt-images/recall.png">
+</p>
