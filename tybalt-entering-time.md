@@ -2,7 +2,7 @@
 
 >users require the 'time' claim in their Profile to enter time
 
-The way most staff will used Tybalt most of the time is for their time sheets. Previously, staff had to enter time sheets manually on an Excel spreadsheet and send them to a central email address where each entry was manually verified. The time sheet entries were subsequently collated to create an invoicing report and then sent to payroll where employees could be paid based on the content. Tybalt improves every part of this process. Here's how that works.
+Most staff will use Tybalt for entering their time worked. Previously, staff had to create time sheets manually on an Excel spreadsheet and send them to a central email address where each entry was manually verified. The time sheet entries were subsequently collated to create an invoicing report and then sent to payroll where employees could be paid based on the content. Tybalt improves every part of this process. Here's how that works.
 
 ## 1. Time Entries
 
