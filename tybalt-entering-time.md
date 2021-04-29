@@ -17,11 +17,6 @@ Time entries are the most basic unit of time. They contain a single description 
 Time sheets are not manually created. Instead, at the end of a week when you've created all of your time entries, you submit them to your manager and they're bundled into a time sheet by clicking the submit ![Submit](https://github.com/stamler/tbte-docs/blob/master/tybalt-images/submitIcon.png) icon. Do not submit your timesheet until it is complete! You choose your manager in settings in the same way you choose your default division. If you change your manager you'll be logged out so the settings take effect. You only need to set your manager once unless your reporting manager changes. There can only be one time sheet for a given week so if you need to edit a time sheet, you must unbundle it (by clicking the Edit ![Edit](https://github.com/stamler/tbte-docs/blob/master/tybalt-images/editIcon.png) icon), edit ![Edit](https://github.com/stamler/tbte-docs/blob/master/tybalt-images/editIcon.png) or delete ![Delete](https://github.com/stamler/tbte-docs/blob/master/tybalt-images/deleteIcon.png) the entry or add others, then resubmit it. This process exists because validations are done on a time sheet *as a whole* during the submission process. For example, if you've tried to bank overtime but that brings your total below 44 hours, the bundling step will fail. There are many other checks that are performed during the bundling process.
 
 <p align="center">
-  <img width="600px" src="https://github.com/stamler/tbte-docs/blob/master/tybalt-images/bundle.png">
-  <img width="600px" src="https://github.com/stamler/tbte-docs/blob/master/tybalt-images/bundling.png">
-</p>
-
-<p align="center">
   <img width="600px" src="https://github.com/stamler/tbte-docs/blob/master/tybalt-images/submitEdit.png">
 </p>
 
