@@ -6,7 +6,7 @@ Tybalt is TBT Engineering's internal software project. At the moment its major f
 
 * [Entering Time](https://github.com/stamler/tbte-docs/blob/master/tybalt-entering-time.md)
 * [Entering Expenses](https://github.com/stamler/tbte-docs/blob/master/tybalt-entering-expenses.md)
-* [Approving Time](https://github.com/stamler/tbte-docs/blob/master/tybalt-approving-time.md)
+* [Approving Time (for Managers)](https://github.com/stamler/tbte-docs/blob/master/tybalt-approving-time.md)
 
 <p align="center">
   <img width="600px" src="https://github.com/stamler/tbte-docs/blob/master/tybalt-images/home.png">
