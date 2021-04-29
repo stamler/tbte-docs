@@ -9,6 +9,14 @@ After a staff member has submitted a time sheet, the manager they have selected 
 * A time sheet was submitted to you by a person who doesn't report to you
 * The submitted time sheet is incomplete
 * The time sheet doesn't represent a full week
+* A staff member worked a Statutory Holiday without indicating in the description when they plan to take it later
+* A statutory holiday entry contains an incorrect number of hours, is not on a Statutory Holiday, or otherwise not permitted
+* An hourly staff member who is eligible for PPTO is claiming sick time (Tybalt doesn't record whether hourly staff are PPTO eligible)
+* The dates of recorded work are incorrect
+* The amount of work is incorrect
+* The job details or description are incorrect
+
+The above list is not exhaustive. Managers have a responsibiliy to reject time sheets as necessary to ensure accuracy and adherance to company policy.
 
 ## Rejection
 
